@@ -21,7 +21,12 @@
  
 ## Backlog
 
- - LARS algorithm
- - Regularisation path, MLE, Lasso/Ridge comparison
- - Model selection introduction
- - Bias-Variance explanation and link with overfitting/generalisation
+ - [x] Formulation of linear regression and MLE
+ - [ ] Schematic geometrical view of linear regression
+ - [ ] Forward stepwise algorithm illustration
+ - [ ] Formalisation of LARS algorithm
+ - [ ] Illustration of LARS algorithm 
+ - [ ] Illustration of regularisation path, MLE, Lasso/Ridge comparison
+ - [ ] Model selection introduction
+ - [x] Formulation of Bias-Variance 
+ - [ ] Link between Bias-Variance, model complexity and overfitting/generalisation
