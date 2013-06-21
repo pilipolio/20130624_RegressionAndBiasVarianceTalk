@@ -18,3 +18,10 @@
  - The [Annals of statistics 2004](http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.aos/1083178935) LARS paper (with blurred figures!)
  - An [earlier pre-print](http://www.stanford.edu/~hastie/Papers/LARS/LeastAngle_2002.pdf) of the LARS paper with nice vectorial figures
  - [LARS Slides](http://www.stanford.edu/~hastie/TALKS/bradfest.pdf) from Hastie
+ 
+## Backlog
+
+ - LARS algorithm
+ - Regularisation path, MLE, Lasso/Ridge comparison
+ - Model selection introduction
+ - Bias-Variance explanation and link with overfitting/generalisation
