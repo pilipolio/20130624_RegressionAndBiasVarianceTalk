@@ -23,7 +23,7 @@
 
  - [x] Formulation of linear regression and MLE
  - [ ] Schematic geometrical view of linear regression
- - [ ] Forward stepwise algorithm illustration
+ - [x] Forward stepwise algorithm illustration
  - [ ] Formalisation of LARS algorithm
  - [ ] Illustration of LARS algorithm 
  - [ ] Illustration of regularisation path, MLE, Lasso/Ridge comparison
