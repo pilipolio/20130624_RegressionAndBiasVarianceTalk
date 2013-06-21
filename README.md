@@ -30,3 +30,4 @@
  - [ ] Model selection introduction
  - [x] Formulation of Bias-Variance 
  - [ ] Link between Bias-Variance, model complexity and overfitting/generalisation
+ - [x] Refactored contour plots
