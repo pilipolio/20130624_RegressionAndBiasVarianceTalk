@@ -24,9 +24,11 @@
  - [x] Formulation of linear regression and MLE
  - [ ] Schematic geometrical view of linear regression
  - [x] Forward stepwise algorithm illustration
- - [ ] Formalisation of LARS algorithm
- - [ ] Illustration of LARS algorithm 
- - [ ] Illustration of regularisation path, MLE, Lasso/Ridge comparison
+ - [ ] Formulation of LARS algorithm
+ - [x] Illustration of LARS algorithm (could be improved by pgf/tikz?)
+ - [ ] Group lasso/ridge toy examples (too similar)
+ - [x] Illustration of regularisation path, MLE, Lasso/Ridge comparison
+ - [ ] Differenciate lasso/ridge paths?
  - [ ] Model selection introduction
  - [x] Formulation of Bias-Variance 
  - [ ] Link between Bias-Variance, model complexity and overfitting/generalisation
