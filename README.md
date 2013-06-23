@@ -3,7 +3,7 @@
  - [Linear regression in the frequentist context](http://nbviewer.ipython.org/urls/raw.github.com/pilipolio/20130624_RegressionAndBiasVarianceTalk/master/LinearRegression.ipynb)
  - Iterative algorithms and the LARS algorithm
  - Penalisation, shrinkage and the connection with the Bias-Variance trade-off
- - [Example on real data set](http://nbviewer.ipython.org/urls/raw.github.com/pilipolio/20130624_RegressionAndBiasVarianceTalk/master/LassoRegression.ipynb)
+ - [Example on real data set](http://nbviewer.ipython.org/urls/raw.github.com/pilipolio/20130624_RegressionAndBiasVarianceTalk/master/DiabeteExample.ipynb)
  
 ## Bibliography
 
@@ -24,11 +24,12 @@
  - [x] Formulation of linear regression and MLE
  - [ ] Schematic geometrical view of linear regression
  - [x] Forward stepwise algorithm illustration
- - [ ] Formulation of LARS algorithm
+ - [ ] Full formulation of LARS algorithm
+ - [ ] LASSO modification of LARS algorithm
  - [x] Illustration of LARS algorithm (could be improved by pgf/tikz?)
  - [ ] Group lasso/ridge toy examples (too similar)
  - [x] Illustration of regularisation path, MLE, Lasso/Ridge comparison
- - [ ] Differenciate lasso/ridge paths?
+ - [x] Differenciate lasso/ridge paths?
  - [ ] Model selection introduction
  - [x] Formulation of Bias-Variance 
  - [ ] Link between Bias-Variance, model complexity and overfitting/generalisation
