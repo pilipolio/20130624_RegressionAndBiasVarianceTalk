@@ -22,8 +22,10 @@
 ## Backlog
 
  - [x] Formulation of linear regression and MLE
- - [ ] Schematic geometrical view of linear regression
+ - [ ] Pros/cons of MLE 
+ - [x] Schematic geometrical view of linear regression
  - [x] Forward stepwise algorithm illustration
+ - [ ] Forward stagewise (infinitesimal steps) algorithm illustration
  - [ ] Full formulation of LARS algorithm
  - [ ] LASSO modification of LARS algorithm
  - [x] Illustration of LARS algorithm (could be improved by pgf/tikz?)
@@ -31,6 +33,6 @@
  - [x] Illustration of regularisation path, MLE, Lasso/Ridge comparison
  - [x] Differenciate lasso/ridge paths?
  - [ ] Model selection introduction
- - [x] Formulation of Bias-Variance 
+ - [x] Formulation of Bias-Variance
  - [ ] Link between Bias-Variance, model complexity and overfitting/generalisation
  - [x] Refactored contour plots
