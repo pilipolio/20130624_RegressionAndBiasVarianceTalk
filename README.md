@@ -18,18 +18,19 @@
  - The [Annals of statistics 2004](http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.aos/1083178935) LARS paper (with blurred figures!)
  - An [earlier pre-print](http://www.stanford.edu/~hastie/Papers/LARS/LeastAngle_2002.pdf) of the LARS paper with nice vectorial figures
  - [LARS Slides](http://www.stanford.edu/~hastie/TALKS/bradfest.pdf) from Hastie
- 
+ - 
 ## Backlog
 
  - [x] Formulation of linear regression and MLE
- - [ ] Pros/cons of MLE 
+ - [ ] Pros/cons of MLE
  - [x] Schematic geometrical view of linear regression
  - [x] Forward stepwise algorithm illustration
- - [ ] Forward stagewise (infinitesimal steps) algorithm illustration
+ - [x] Forward stagewise (infinitesimal steps) algorithm illustration
  - [ ] Full formulation of LARS algorithm
  - [ ] LASSO modification of LARS algorithm
- - [x] Illustration of LARS algorithm (could be improved by pgf/tikz?)
+ - [x] Illustration of LARS algorithm
  - [ ] Group lasso/ridge toy examples (too similar)
+ - [ ] Refactor/clarify  matrix multiplication multi-dot from that cookbook example](http://wiki.scipy.org/Cookbook/MultiDot)
  - [x] Illustration of regularisation path, MLE, Lasso/Ridge comparison
  - [x] Differenciate lasso/ridge paths?
  - [ ] Model selection introduction
