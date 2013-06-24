@@ -26,10 +26,10 @@
  - [x] Schematic geometrical view of linear regression
  - [x] Forward stepwise algorithm illustration
  - [x] Forward stagewise (infinitesimal steps) algorithm illustration
- - [ ] Full formulation of LARS algorithm
+ - [x] Full formulation of LARS algorithm
  - [ ] LASSO modification of LARS algorithm
  - [x] Illustration of LARS algorithm
- - [ ] Group lasso/ridge toy examples (too similar)
+ - [x] Group lasso/ridge toy examples (too similar)
  - [ ] Refactor/clarify  matrix multiplication multi-dot from that cookbook example](http://wiki.scipy.org/Cookbook/MultiDot)
  - [x] Illustration of regularisation path, MLE, Lasso/Ridge comparison
  - [x] Differenciate lasso/ridge paths?
