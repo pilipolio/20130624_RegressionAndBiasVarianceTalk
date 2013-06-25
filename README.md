@@ -33,7 +33,9 @@
  - [ ] Refactor/clarify  matrix multiplication multi-dot from that cookbook example](http://wiki.scipy.org/Cookbook/MultiDot)
  - [x] Illustration of regularisation path, MLE, Lasso/Ridge comparison
  - [x] Differenciate lasso/ridge paths?
- - [ ] Model selection introduction
- - [x] Formulation of Bias-Variance
- - [ ] Link between Bias-Variance, model complexity and overfitting/generalisation
  - [x] Refactored contour plots
+ - [ ] Model selection formal introduction
+ - [x] Formulation of Bias-Variance
+ - [x] Illustration og Bias-Variance, model complexity and overfitting/generalisation
+ - [ ] Bias-Variance with the ridge regression?
+ - [ ] Bias-Variance idea on real data-set (variance estimated on K-folds CV)
